@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi, I'm Sandhya L D 👋
 
-<!--
-**sandhyald2004-ship-it/sandhyald2004-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science graduate and aspiring software developer
+💻 Interested in Java,Python, Web Development and Computer Science
+📚 Currently improving my programming and problem-solving skills
+🌱 Learning Git, GitHub,Java,Python, JavaScript and database concepts
+🎯 Preparing for higher studies, competitive exams and software opportunities
+🎥 Creator of educational and English-learning content
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Skills
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* SQL
+* Computer Networks
+* Web Technologies
+* Git and GitHub
+
+Currently Learning
+
+* Data Structures and Algorithms
+* Python projects
+* Front-end web development
+* Git and GitHub collaboration
+* Database management
+
+ Projects
+
+Projects will be added here as I build them.
+
+ My Goals
+
+* Build useful software projects
+* Improve coding and problem-solving skills
+* Contribute to open-source projects
+* Create a strong software-development portfolio
+* Help other students learn technology
+
+ Connect With Me
+
+* GitHub: [sandhyald2004-ship-it](https://github.com/sandhyald2004-ship-it)
+
+---
+
+⭐ I am learning consistently and building one project at a time.
+
