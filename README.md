@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Sandhya-L-D/Sandhya-L-D/blob/main/ChatGPT%20Image%20Jul%2019%2C%202026%2C%2001_44_24%20PM.png">
 </p>
 <h1 align="center">Hi 👋, I'm Sandhya L D</h1>
 
