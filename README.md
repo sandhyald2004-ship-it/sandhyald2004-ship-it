@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000005eac81fb86f4cd9d62b69a28&ts=495680&p=fs&cid=1&sig=8a0b75791ab5652d5524e054a301e37d3aff8a1754798bb4792e985d0f1c3e74&v=0" width="100%">
+  <img src="">
 </p>
 <h1 align="center">Hi 👋, I'm Sandhya L D</h1>
 
