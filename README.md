@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Sandhya-L-D/Sandhya-L-D/blob/main/assest.png">
-</p>
 <h1 align="center">Hi 👋, I'm Sandhya L D</h1>
 
 <h3 align="center">💻 MCA Student | Aspiring Java Developer | DSA Learner | Web Development Enthusiast</h3>
