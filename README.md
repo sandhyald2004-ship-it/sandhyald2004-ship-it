@@ -1,6 +1,6 @@
  Hi there, I'm Sandhya L D 👋
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 🎓 MCA Student  
 💻 Aspiring Java Developer  
